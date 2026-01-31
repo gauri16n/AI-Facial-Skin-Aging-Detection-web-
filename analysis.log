@@ -1,0 +1,640 @@
+2026-01-09 19:56:30,263 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-09 19:56:30,263 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-09 19:56:30,287 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-09 19:56:50,561 - WARNING -  * Debugger is active!
+2026-01-09 19:56:50,568 - INFO -  * Debugger PIN: 308-774-616
+2026-01-09 19:58:18,584 - INFO - Analysis completed at 2026-01-09 19:58:18, time taken: 3.91s
+2026-01-09 19:58:18,585 - INFO - Detection: puffy eyes, Confidence: 87.52%, Age: 46, Box: {'x1': 243, 'y1': 252, 'x2': 408, 'y2': 311}
+2026-01-09 19:58:18,824 - INFO - Analysis completed at 2026-01-09 19:58:18, time taken: 0.27s
+2026-01-09 19:58:18,825 - INFO - Detection: puffy eyes, Confidence: 87.52%, Age: 35, Box: {'x1': 243, 'y1': 252, 'x2': 408, 'y2': 311}
+2026-01-09 19:58:22,041 - INFO - Annotated image saved as results/processed_20260109_195818.jpg
+2026-01-09 19:58:22,045 - INFO - 127.0.0.1 - - [09/Jan/2026 19:58:22] "POST /analyze HTTP/1.1" 200 -
+2026-01-09 19:58:27,071 - INFO - Annotated image saved as results/processed_20260109_195818.jpg
+2026-01-09 19:58:27,073 - INFO - 127.0.0.1 - - [09/Jan/2026 19:58:27] "POST /analyze HTTP/1.1" 200 -
+2026-01-09 19:59:38,423 - INFO - Analysis completed at 2026-01-09 19:59:38, time taken: 0.26s
+2026-01-09 19:59:38,424 - INFO - Detection: clear skin, Confidence: 100.00%, Age: 28, Box: {'x1': 0, 'y1': 0, 'x2': 640, 'y2': 640}
+2026-01-09 19:59:41,755 - INFO - Annotated image saved as results/processed_20260109_195938.jpg
+2026-01-09 19:59:41,756 - INFO - 127.0.0.1 - - [09/Jan/2026 19:59:41] "POST /analyze HTTP/1.1" 200 -
+2026-01-09 20:00:02,209 - INFO - Analysis completed at 2026-01-09 20:00:02, time taken: 0.24s
+2026-01-09 20:00:02,209 - INFO - Detection: puffy eyes, Confidence: 55.66%, Age: 35, Box: {'x1': 65, 'y1': 58, 'x2': 195, 'y2': 92}
+2026-01-09 20:00:05,522 - INFO - Annotated image saved as results/processed_20260109_200002.jpg
+2026-01-09 20:00:05,524 - INFO - 127.0.0.1 - - [09/Jan/2026 20:00:05] "POST /analyze HTTP/1.1" 200 -
+2026-01-09 20:01:13,197 - INFO - Analysis completed at 2026-01-09 20:01:13, time taken: 0.27s
+2026-01-09 20:01:13,198 - INFO - Detection: dark spots, Confidence: 99.87%, Age: 39, Box: {'x1': 54, 'y1': 123, 'x2': 127, 'y2': 205}
+2026-01-09 20:01:16,561 - INFO - Annotated image saved as results/processed_20260109_200113.jpg
+2026-01-09 20:01:16,565 - INFO - 127.0.0.1 - - [09/Jan/2026 20:01:16] "POST /analyze HTTP/1.1" 200 -
+2026-01-17 19:09:30,213 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-17 19:09:30,215 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-17 19:09:30,253 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 19:09:48,807 - WARNING -  * Debugger is active!
+2026-01-17 19:09:48,830 - INFO -  * Debugger PIN: 851-531-774
+2026-01-17 19:09:49,758 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\matplotlib\\backends\\backend_wxagg.py', reloading
+2026-01-17 19:09:51,628 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 19:10:06,167 - WARNING -  * Debugger is active!
+2026-01-17 19:10:06,173 - INFO -  * Debugger PIN: 851-531-774
+2026-01-17 19:10:19,076 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\notebook_shim\\__init__.py', reloading
+2026-01-17 19:10:20,632 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 19:10:37,940 - WARNING -  * Debugger is active!
+2026-01-17 19:10:37,945 - INFO -  * Debugger PIN: 851-531-774
+2026-01-17 19:10:38,549 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\pandas\\tests\\groupby\\methods\\test_size.py', reloading
+2026-01-17 19:10:40,107 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 19:10:54,007 - WARNING -  * Debugger is active!
+2026-01-17 19:10:54,011 - INFO -  * Debugger PIN: 851-531-774
+2026-01-17 19:10:54,556 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\plotly\\graph_objs\\_scattercarpet.py', reloading
+2026-01-17 19:10:56,020 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 19:11:09,690 - WARNING -  * Debugger is active!
+2026-01-17 19:11:09,695 - INFO -  * Debugger PIN: 851-531-774
+2026-01-17 19:11:11,061 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\pyarrow\\interchange\\__init__.py', reloading
+2026-01-17 19:11:12,517 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 19:11:25,373 - WARNING -  * Debugger is active!
+2026-01-17 19:11:25,377 - INFO -  * Debugger PIN: 851-531-774
+2026-01-17 19:11:25,909 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\scipy\\ndimage\\tests\\test_fourier.py', reloading
+2026-01-17 19:11:27,209 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 19:11:40,007 - WARNING -  * Debugger is active!
+2026-01-17 19:11:40,014 - INFO -  * Debugger PIN: 851-531-774
+2026-01-17 19:11:40,857 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sklearn\\cluster\\_spectral.py', reloading
+2026-01-17 19:11:44,080 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 19:12:05,054 - WARNING -  * Debugger is active!
+2026-01-17 19:12:05,064 - INFO -  * Debugger PIN: 851-531-774
+2026-01-17 19:12:07,381 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\string_util.py', reloading
+2026-01-17 19:12:07,382 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\string_util.py', reloading
+2026-01-17 19:12:07,389 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\temporary_directory.py', reloading
+2026-01-17 19:12:07,390 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\temporary_directory.py', reloading
+2026-01-17 19:12:07,394 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\__init__.py', reloading
+2026-01-17 19:12:07,394 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\__init__.py', reloading
+2026-01-17 19:12:07,398 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\v1\\__init__.py', reloading
+2026-01-17 19:12:07,399 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\v1\\__init__.py', reloading
+2026-01-17 19:12:07,402 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\v1\\app_test.py', reloading
+2026-01-17 19:12:07,403 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\v1\\app_test.py', reloading
+2026-01-17 19:12:07,420 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\v1\\element_tree.py', reloading
+2026-01-17 19:12:07,421 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\v1\\element_tree.py', reloading
+2026-01-17 19:12:07,494 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\v1\\local_script_runner.py', reloading
+2026-01-17 19:12:07,495 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\v1\\local_script_runner.py', reloading
+2026-01-17 19:12:07,503 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\v1\\util.py', reloading
+2026-01-17 19:12:07,504 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\testing\\v1\\util.py', reloading
+2026-01-17 19:12:07,506 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\time_util.py', reloading
+2026-01-17 19:12:07,506 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\time_util.py', reloading
+2026-01-17 19:12:07,509 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\type_util.py', reloading
+2026-01-17 19:12:07,510 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\type_util.py', reloading
+2026-01-17 19:12:07,522 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\url_util.py', reloading
+2026-01-17 19:12:07,523 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\url_util.py', reloading
+2026-01-17 19:12:07,529 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\user_info.py', reloading
+2026-01-17 19:12:07,530 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\user_info.py', reloading
+2026-01-17 19:12:07,538 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\util.py', reloading
+2026-01-17 19:12:07,538 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\util.py', reloading
+2026-01-17 19:12:07,543 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\vendor\\__init__.py', reloading
+2026-01-17 19:12:07,544 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\vendor\\__init__.py', reloading
+2026-01-17 19:12:07,548 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\vendor\\pympler\\__init__.py', reloading
+2026-01-17 19:12:07,548 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\vendor\\pympler\\__init__.py', reloading
+2026-01-17 19:12:07,550 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\vendor\\pympler\\asizeof.py', reloading
+2026-01-17 19:12:07,551 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\vendor\\pympler\\asizeof.py', reloading
+2026-01-17 19:12:07,626 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\version.py', reloading
+2026-01-17 19:12:07,627 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\version.py', reloading
+2026-01-17 19:12:07,630 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\__init__.py', reloading
+2026-01-17 19:12:07,631 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\__init__.py', reloading
+2026-01-17 19:12:07,635 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\event_based_path_watcher.py', reloading
+2026-01-17 19:12:07,636 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\event_based_path_watcher.py', reloading
+2026-01-17 19:12:07,648 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\folder_black_list.py', reloading
+2026-01-17 19:12:07,649 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\folder_black_list.py', reloading
+2026-01-17 19:12:07,653 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\local_sources_watcher.py', reloading
+2026-01-17 19:12:07,654 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\local_sources_watcher.py', reloading
+2026-01-17 19:12:07,663 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\path_watcher.py', reloading
+2026-01-17 19:12:07,664 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\path_watcher.py', reloading
+2026-01-17 19:12:07,669 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\polling_path_watcher.py', reloading
+2026-01-17 19:12:07,670 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\polling_path_watcher.py', reloading
+2026-01-17 19:12:07,674 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\util.py', reloading
+2026-01-17 19:12:07,676 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\watcher\\util.py', reloading
+2026-01-17 19:12:07,683 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\__init__.py', reloading
+2026-01-17 19:12:07,684 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\__init__.py', reloading
+2026-01-17 19:12:07,688 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\bootstrap.py', reloading
+2026-01-17 19:12:07,688 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\bootstrap.py', reloading
+2026-01-17 19:12:07,704 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\cache_storage_manager_config.py', reloading
+2026-01-17 19:12:07,704 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\cache_storage_manager_config.py', reloading
+2026-01-17 19:12:07,706 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\cli.py', reloading
+2026-01-17 19:12:07,707 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\cli.py', reloading
+2026-01-17 19:12:07,722 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\__init__.py', reloading
+2026-01-17 19:12:07,723 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\__init__.py', reloading
+2026-01-17 19:12:07,728 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\app_static_file_handler.py', reloading
+2026-01-17 19:12:07,729 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\app_static_file_handler.py', reloading
+2026-01-17 19:12:07,733 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\authlib_tornado_integration.py', reloading
+2026-01-17 19:12:07,734 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\authlib_tornado_integration.py', reloading
+2026-01-17 19:12:07,737 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\bidi_component_request_handler.py', reloading
+2026-01-17 19:12:07,738 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\bidi_component_request_handler.py', reloading
+2026-01-17 19:12:07,745 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\browser_websocket_handler.py', reloading
+2026-01-17 19:12:07,745 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\browser_websocket_handler.py', reloading
+2026-01-17 19:12:07,755 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\component_file_utils.py', reloading
+2026-01-17 19:12:07,755 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\component_file_utils.py', reloading
+2026-01-17 19:12:07,759 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\component_request_handler.py', reloading
+2026-01-17 19:12:07,760 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\component_request_handler.py', reloading
+2026-01-17 19:12:07,764 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\media_file_handler.py', reloading
+2026-01-17 19:12:07,765 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\media_file_handler.py', reloading
+2026-01-17 19:12:07,771 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\oauth_authlib_routes.py', reloading
+2026-01-17 19:12:07,772 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\oauth_authlib_routes.py', reloading
+2026-01-17 19:12:07,780 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\oidc_mixin.py', reloading
+2026-01-17 19:12:07,780 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\oidc_mixin.py', reloading
+2026-01-17 19:12:07,792 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\routes.py', reloading
+2026-01-17 19:12:07,794 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\routes.py', reloading
+2026-01-17 19:12:07,795 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\server.py', reloading
+2026-01-17 19:12:07,797 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\server.py', reloading
+2026-01-17 19:12:07,812 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\server_util.py', reloading
+2026-01-17 19:12:07,812 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\server_util.py', reloading
+2026-01-17 19:12:07,816 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\stats_request_handler.py', reloading
+2026-01-17 19:12:07,825 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\stats_request_handler.py', reloading
+2026-01-17 19:12:07,826 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\upload_file_request_handler.py', reloading
+2026-01-17 19:12:07,827 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\upload_file_request_handler.py', reloading
+2026-01-17 19:12:07,841 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\websocket_headers.py', reloading
+2026-01-17 19:12:07,857 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\streamlit\\web\\server\\websocket_headers.py', reloading
+2026-01-17 19:12:07,861 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\__init__.py', reloading
+2026-01-17 19:12:07,866 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\__init__.py', reloading
+2026-01-17 19:12:07,908 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\abc.py', reloading
+2026-01-17 19:12:07,910 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\abc.py', reloading
+2026-01-17 19:12:07,917 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\algebras\\__init__.py', reloading
+2026-01-17 19:12:07,918 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\algebras\\__init__.py', reloading
+2026-01-17 19:12:07,920 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\algebras\\quaternion.py', reloading
+2026-01-17 19:12:07,925 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\algebras\\quaternion.py', reloading
+2026-01-17 19:12:07,956 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\algebras\\tests\\__init__.py', reloading
+2026-01-17 19:12:07,957 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\algebras\\tests\\__init__.py', reloading
+2026-01-17 19:12:07,958 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\algebras\\tests\\test_quaternion.py', reloading
+2026-01-17 19:12:07,959 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\algebras\\tests\\test_quaternion.py', reloading
+2026-01-17 19:12:07,989 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\__init__.py', reloading
+2026-01-17 19:12:07,990 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\__init__.py', reloading
+2026-01-17 19:12:07,993 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\ask.py', reloading
+2026-01-17 19:12:07,994 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\ask.py', reloading
+2026-01-17 19:12:08,008 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\ask_generated.py', reloading
+2026-01-17 19:12:08,009 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\ask_generated.py', reloading
+2026-01-17 19:12:08,046 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\assume.py', reloading
+2026-01-17 19:12:08,047 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\assume.py', reloading
+2026-01-17 19:12:08,059 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\cnf.py', reloading
+2026-01-17 19:12:08,059 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\cnf.py', reloading
+2026-01-17 19:12:08,078 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\facts.py', reloading
+2026-01-17 19:12:08,079 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\facts.py', reloading
+2026-01-17 19:12:08,091 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\handlers\\__init__.py', reloading
+2026-01-17 19:12:08,091 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\handlers\\__init__.py', reloading
+2026-01-17 19:12:08,096 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\handlers\\calculus.py', reloading
+2026-01-17 19:12:08,097 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\handlers\\calculus.py', reloading
+2026-01-17 19:12:08,106 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\handlers\\common.py', reloading
+2026-01-17 19:12:08,107 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\handlers\\common.py', reloading
+2026-01-17 19:12:08,113 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\handlers\\matrices.py', reloading
+2026-01-17 19:12:08,114 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\assumptions\\handlers\\matrices.py', reloading
+2026-01-17 19:12:10,479 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 19:12:29,161 - WARNING -  * Debugger is active!
+2026-01-17 19:12:29,166 - INFO -  * Debugger PIN: 851-531-774
+2026-01-17 19:12:29,969 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\sympy\\series\\fourier.py', reloading
+2026-01-17 19:12:32,174 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 19:12:50,831 - WARNING -  * Debugger is active!
+2026-01-17 19:12:50,855 - INFO -  * Debugger PIN: 851-531-774
+2026-01-17 19:15:23,392 - INFO -  * Detected change in 'C:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\__init__.py', reloading
+2026-01-17 19:15:28,361 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-17 19:15:46,781 - WARNING -  * Debugger is active!
+2026-01-17 19:15:46,795 - INFO -  * Debugger PIN: 851-531-774
+2026-01-17 19:17:39,920 - INFO - Analysis completed at 2026-01-17 19:17:39, time taken: 2.75s
+2026-01-17 19:17:39,921 - INFO - Analysis completed at 2026-01-17 19:17:39, time taken: 4.12s
+2026-01-17 19:17:39,921 - INFO - Detection: dark spots, Confidence: 99.99%, Age: 38, Box: {'x1': 95, 'y1': 152, 'x2': 222, 'y2': 253}
+2026-01-17 19:17:39,921 - INFO - Detection: dark spots, Confidence: 99.99%, Age: 28, Box: {'x1': 95, 'y1': 152, 'x2': 222, 'y2': 253}
+2026-01-17 19:17:39,963 - INFO - Annotated image saved as results/processed_20260117_191739.jpg
+2026-01-17 19:17:39,966 - INFO - Annotated image saved as results/processed_20260117_191739.jpg
+2026-01-17 19:17:39,970 - INFO - 127.0.0.1 - - [17/Jan/2026 19:17:39] "POST /analyze HTTP/1.1" 200 -
+2026-01-17 19:17:39,972 - INFO - 127.0.0.1 - - [17/Jan/2026 19:17:39] "POST /analyze HTTP/1.1" 200 -
+2026-01-17 19:18:27,997 - INFO - Analysis completed at 2026-01-17 19:18:27, time taken: 0.27s
+2026-01-17 19:18:27,998 - INFO - Detection: clear skin, Confidence: 98.65%, Age: 21, Box: {'x1': 0, 'y1': 0, 'x2': 640, 'y2': 640}
+2026-01-17 19:18:28,016 - INFO - Annotated image saved as results/processed_20260117_191827.jpg
+2026-01-17 19:18:28,018 - INFO - 127.0.0.1 - - [17/Jan/2026 19:18:28] "POST /analyze HTTP/1.1" 200 -
+2026-01-17 19:18:44,310 - INFO - Analysis completed at 2026-01-17 19:18:44, time taken: 0.29s
+2026-01-17 19:18:44,310 - INFO - Detection: clear skin, Confidence: 99.54%, Age: 27, Box: {'x1': 0, 'y1': 0, 'x2': 640, 'y2': 640}
+2026-01-17 19:18:44,336 - INFO - Annotated image saved as results/processed_20260117_191844.jpg
+2026-01-17 19:18:44,339 - INFO - 127.0.0.1 - - [17/Jan/2026 19:18:44] "POST /analyze HTTP/1.1" 200 -
+2026-01-17 19:30:56,815 - INFO - Analysis completed at 2026-01-17 19:30:56, time taken: 1.38s
+2026-01-17 19:30:56,820 - INFO - Detection: clear skin, Confidence: 97.79%, Age: 30, Box: {'x1': 201, 'y1': 112, 'x2': 509, 'y2': 420}
+2026-01-17 19:30:56,847 - INFO - Annotated image saved as results/processed_20260117_193056.jpg
+2026-01-17 19:30:56,857 - INFO - 127.0.0.1 - - [17/Jan/2026 19:30:56] "POST /analyze HTTP/1.1" 200 -
+2026-01-31 21:05:42,559 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-01-31 21:05:42,561 - INFO - [33mPress CTRL+C to quit[0m
+2026-01-31 21:05:42,594 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-31 21:06:00,016 - WARNING -  * Debugger is active!
+2026-01-31 21:06:00,029 - INFO -  * Debugger PIN: 663-202-794
+2026-01-31 21:06:56,120 - INFO - Analysis completed at 2026-01-31 21:06:56, time taken: 4.16s
+2026-01-31 21:06:56,128 - INFO - Analysis completed at 2026-01-31 21:06:56, time taken: 7.46s
+2026-01-31 21:06:56,129 - INFO - Detection: clear skin, Confidence: 69.12%, Age: 26, Box: {'x1': 149, 'y1': 99, 'x2': 480, 'y2': 430}
+2026-01-31 21:06:56,129 - INFO - Detection: clear skin, Confidence: 69.12%, Age: 25, Box: {'x1': 149, 'y1': 99, 'x2': 480, 'y2': 430}
+2026-01-31 21:06:56,218 - INFO - Annotated image saved as results/processed_20260131_210656.jpg
+2026-01-31 21:06:56,265 - INFO - Annotated image saved as results/processed_20260131_210656.jpg
+2026-01-31 21:06:56,266 - INFO - 127.0.0.1 - - [31/Jan/2026 21:06:56] "POST /analyze HTTP/1.1" 200 -
+2026-01-31 21:06:56,269 - INFO - 127.0.0.1 - - [31/Jan/2026 21:06:56] "POST /analyze HTTP/1.1" 200 -
+2026-01-31 21:07:29,421 - INFO - Analysis completed at 2026-01-31 21:07:29, time taken: 1.34s
+2026-01-31 21:07:29,426 - INFO - Detection: dark spots, Confidence: 99.95%, Age: 40, Box: {'x1': 64, 'y1': 105, 'x2': 150, 'y2': 175}
+2026-01-31 21:07:29,482 - INFO - Annotated image saved as results/processed_20260131_210729.jpg
+2026-01-31 21:07:29,499 - INFO - 127.0.0.1 - - [31/Jan/2026 21:07:29] "POST /analyze HTTP/1.1" 200 -
+2026-01-31 21:08:40,724 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\__init__.py', reloading
+2026-01-31 21:08:40,740 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\experimental\\__init__.py', reloading
+2026-01-31 21:08:40,743 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\experimental\\genai\\__init__.py', reloading
+2026-01-31 21:08:40,744 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\experimental\\genai\\pywrap_genai_ops.py', reloading
+2026-01-31 21:08:40,747 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\experimental\\microfrontend\\__init__.py', reloading
+2026-01-31 21:08:40,748 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\experimental\\microfrontend\\ops\\__init__.py', reloading
+2026-01-31 21:08:40,750 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\experimental\\microfrontend\\ops\\gen_audio_microfrontend_op.py', reloading
+2026-01-31 21:08:40,752 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\experimental\\microfrontend\\python\\__init__.py', reloading
+2026-01-31 21:08:40,752 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\experimental\\microfrontend\\python\\ops\\__init__.py', reloading
+2026-01-31 21:08:40,753 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\experimental\\microfrontend\\python\\ops\\audio_microfrontend_op.py', reloading
+2026-01-31 21:08:40,754 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\profiling\\__init__.py', reloading
+2026-01-31 21:08:40,754 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\profiling\\proto\\__init__.py', reloading
+2026-01-31 21:08:40,755 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\profiling\\proto\\model_runtime_info_pb2.py', reloading
+2026-01-31 21:08:40,757 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\profiling\\proto\\profiling_info_pb2.py', reloading
+2026-01-31 21:08:40,758 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\__init__.py', reloading
+2026-01-31 21:08:40,759 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\analyzer.py', reloading
+2026-01-31 21:08:40,759 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\authoring\\__init__.py', reloading
+2026-01-31 21:08:40,760 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\authoring\\authoring.py', reloading
+2026-01-31 21:08:40,760 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\conversion_metadata_schema_py_generated.py', reloading
+2026-01-31 21:08:40,761 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\convert.py', reloading
+2026-01-31 21:08:40,762 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\convert_phase.py', reloading
+2026-01-31 21:08:40,762 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\convert_saved_model.py', reloading
+2026-01-31 21:08:40,763 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\interpreter.py', reloading
+2026-01-31 21:08:40,764 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\lite.py', reloading
+2026-01-31 21:08:40,765 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\lite_constants.py', reloading
+2026-01-31 21:08:40,765 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\metrics\\__init__.py', reloading
+2026-01-31 21:08:40,766 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\metrics\\metrics.py', reloading
+2026-01-31 21:08:40,766 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\metrics\\metrics_interface.py', reloading
+2026-01-31 21:08:40,767 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\metrics\\wrapper\\__init__.py', reloading
+2026-01-31 21:08:40,767 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\metrics\\wrapper\\metrics_wrapper.py', reloading
+2026-01-31 21:08:40,768 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\op_hint.py', reloading
+2026-01-31 21:08:40,769 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\optimize\\__init__.py', reloading
+2026-01-31 21:08:40,771 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\optimize\\calibrator.py', reloading
+2026-01-31 21:08:40,773 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\schema_py_generated.py', reloading
+2026-01-31 21:08:40,774 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\schema_util.py', reloading
+2026-01-31 21:08:40,775 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\tflite_convert.py', reloading
+2026-01-31 21:08:40,777 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\tflite_keras_util.py', reloading
+2026-01-31 21:08:40,779 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\python\\util.py', reloading
+2026-01-31 21:08:40,781 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\testing\\__init__.py', reloading
+2026-01-31 21:08:40,783 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\testing\\_pywrap_string_util.py', reloading
+2026-01-31 21:08:40,785 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\toco\\__init__.py', reloading
+2026-01-31 21:08:40,789 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\toco\\logging\\__init__.py', reloading
+2026-01-31 21:08:40,791 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\toco\\logging\\gen_html.py', reloading
+2026-01-31 21:08:40,793 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\toco\\logging\\toco_conversion_log_pb2.py', reloading
+2026-01-31 21:08:40,795 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\toco\\toco_flags_pb2.py', reloading
+2026-01-31 21:08:40,799 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\toco\\types_pb2.py', reloading
+2026-01-31 21:08:40,801 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\tools\\__init__.py', reloading
+2026-01-31 21:08:40,803 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\tools\\flatbuffer_utils.py', reloading
+2026-01-31 21:08:40,805 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\tools\\optimize\\__init__.py', reloading
+2026-01-31 21:08:40,809 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\tools\\optimize\\debugging\\__init__.py', reloading
+2026-01-31 21:08:40,813 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\tools\\optimize\\debugging\\python\\__init__.py', reloading
+2026-01-31 21:08:40,815 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\tools\\optimize\\debugging\\python\\debugger.py', reloading
+2026-01-31 21:08:40,817 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\tools\\optimize\\python\\__init__.py', reloading
+2026-01-31 21:08:40,820 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\tools\\optimize\\python\\_pywrap_modify_model_interface.py', reloading
+2026-01-31 21:08:40,822 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\tools\\optimize\\sparsity\\__init__.py', reloading
+2026-01-31 21:08:40,824 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\tools\\optimize\\sparsity\\format_converter_wrapper_pybind11.py', reloading
+2026-01-31 21:08:40,827 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\lite\\tools\\visualize.py', reloading
+2026-01-31 21:08:40,831 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\__init__.py', reloading
+2026-01-31 21:08:40,836 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\__init__.py', reloading
+2026-01-31 21:08:40,841 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\__init__.py', reloading
+2026-01-31 21:08:40,845 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\asserts.py', reloading
+2026-01-31 21:08:40,846 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\break_statements.py', reloading
+2026-01-31 21:08:40,847 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\call_trees.py', reloading
+2026-01-31 21:08:40,848 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\conditional_expressions.py', reloading
+2026-01-31 21:08:40,849 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\continue_statements.py', reloading
+2026-01-31 21:08:40,850 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\control_flow.py', reloading
+2026-01-31 21:08:40,852 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\directives.py', reloading
+2026-01-31 21:08:40,854 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\functions.py', reloading
+2026-01-31 21:08:40,857 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\lists.py', reloading
+2026-01-31 21:08:40,858 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\logical_expressions.py', reloading
+2026-01-31 21:08:40,859 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\return_statements.py', reloading
+2026-01-31 21:08:40,860 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\slices.py', reloading
+2026-01-31 21:08:40,861 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\converters\\variables.py', reloading
+2026-01-31 21:08:40,863 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\core\\__init__.py', reloading
+2026-01-31 21:08:40,866 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\core\\ag_ctx.py', reloading
+2026-01-31 21:08:40,867 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\core\\config.py', reloading
+2026-01-31 21:08:40,868 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\core\\config_lib.py', reloading
+2026-01-31 21:08:40,869 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\core\\converter.py', reloading
+2026-01-31 21:08:40,871 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\core\\converter_testing.py', reloading
+2026-01-31 21:08:40,871 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\core\\function_wrappers.py', reloading
+2026-01-31 21:08:40,873 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\core\\unsupported_features_checker.py', reloading
+2026-01-31 21:08:40,876 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\impl\\__init__.py', reloading
+2026-01-31 21:08:40,878 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\impl\\api.py', reloading
+2026-01-31 21:08:40,882 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\impl\\conversion.py', reloading
+2026-01-31 21:08:40,886 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\lang\\__init__.py', reloading
+2026-01-31 21:08:40,889 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\lang\\directives.py', reloading
+2026-01-31 21:08:40,890 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\lang\\special_functions.py', reloading
+2026-01-31 21:08:40,894 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\operators\\__init__.py', reloading
+2026-01-31 21:08:40,897 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\operators\\conditional_expressions.py', reloading
+2026-01-31 21:08:40,899 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\operators\\control_flow.py', reloading
+2026-01-31 21:08:40,900 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\operators\\data_structures.py', reloading
+2026-01-31 21:08:40,902 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\operators\\exceptions.py', reloading
+2026-01-31 21:08:40,903 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\operators\\logical.py', reloading
+2026-01-31 21:08:40,904 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\operators\\py_builtins.py', reloading
+2026-01-31 21:08:40,906 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\operators\\slices.py', reloading
+2026-01-31 21:08:40,908 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\operators\\variables.py', reloading
+2026-01-31 21:08:40,910 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\__init__.py', reloading
+2026-01-31 21:08:40,915 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\anno.py', reloading
+2026-01-31 21:08:40,918 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\ast_util.py', reloading
+2026-01-31 21:08:40,919 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\cache.py', reloading
+2026-01-31 21:08:40,922 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\cfg.py', reloading
+2026-01-31 21:08:40,924 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\common_transformers\\__init__.py', reloading
+2026-01-31 21:08:40,926 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\common_transformers\\anf.py', reloading
+2026-01-31 21:08:40,927 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\error_utils.py', reloading
+2026-01-31 21:08:40,929 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\errors.py', reloading
+2026-01-31 21:08:40,930 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\gast_util.py', reloading
+2026-01-31 21:08:40,930 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\inspect_utils.py', reloading
+2026-01-31 21:08:40,932 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\loader.py', reloading
+2026-01-31 21:08:40,933 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\naming.py', reloading
+2026-01-31 21:08:40,934 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\origin_info.py', reloading
+2026-01-31 21:08:40,935 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\parser.py', reloading
+2026-01-31 21:08:40,936 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\pretty_printer.py', reloading
+2026-01-31 21:08:40,937 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\qual_names.py', reloading
+2026-01-31 21:08:40,940 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\static_analysis\\__init__.py', reloading
+2026-01-31 21:08:40,943 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\static_analysis\\activity.py', reloading
+2026-01-31 21:08:40,944 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\static_analysis\\annos.py', reloading
+2026-01-31 21:08:40,945 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\static_analysis\\liveness.py', reloading
+2026-01-31 21:08:40,947 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\static_analysis\\reaching_definitions.py', reloading
+2026-01-31 21:08:40,948 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\static_analysis\\reaching_fndefs.py', reloading
+2026-01-31 21:08:40,950 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\static_analysis\\type_inference.py', reloading
+2026-01-31 21:08:40,951 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\templates.py', reloading
+2026-01-31 21:08:40,953 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\testing\\__init__.py', reloading
+2026-01-31 21:08:40,956 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\testing\\basic_definitions.py', reloading
+2026-01-31 21:08:40,957 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\testing\\decorators.py', reloading
+2026-01-31 21:08:40,959 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\transformer.py', reloading
+2026-01-31 21:08:40,961 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\transpiler.py', reloading
+2026-01-31 21:08:40,963 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\utils\\__init__.py', reloading
+2026-01-31 21:08:40,966 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\utils\\ag_logging.py', reloading
+2026-01-31 21:08:40,968 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\utils\\context_managers.py', reloading
+2026-01-31 21:08:40,969 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\utils\\misc.py', reloading
+2026-01-31 21:08:40,970 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\utils\\tensor_list.py', reloading
+2026-01-31 21:08:40,971 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\utils\\tensors.py', reloading
+2026-01-31 21:08:40,972 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\utils\\testing.py', reloading
+2026-01-31 21:08:40,974 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\autograph\\utils\\type_registry.py', reloading
+2026-01-31 21:08:40,978 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\__init__.py', reloading
+2026-01-31 21:08:40,980 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\async_checkpoint_helper.py', reloading
+2026-01-31 21:08:40,982 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\checkpoint.py', reloading
+2026-01-31 21:08:40,984 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\checkpoint_adapter.py', reloading
+2026-01-31 21:08:40,985 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\checkpoint_context.py', reloading
+2026-01-31 21:08:40,986 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\checkpoint_management.py', reloading
+2026-01-31 21:08:40,988 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\checkpoint_options.py', reloading
+2026-01-31 21:08:40,989 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\checkpoint_view.py', reloading
+2026-01-31 21:08:40,990 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\functional_saver.py', reloading
+2026-01-31 21:08:40,992 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\graph_view.py', reloading
+2026-01-31 21:08:40,993 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\restore.py', reloading
+2026-01-31 21:08:40,995 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\save_util.py', reloading
+2026-01-31 21:08:40,996 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\save_util_v1.py', reloading
+2026-01-31 21:08:40,997 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\saveable_compat.py', reloading
+2026-01-31 21:08:40,999 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\sharding\\__init__.py', reloading
+2026-01-31 21:08:41,002 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\sharding\\sharding_policies.py', reloading
+2026-01-31 21:08:41,004 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\sharding\\sharding_util.py', reloading
+2026-01-31 21:08:41,005 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\tensor_callable.py', reloading
+2026-01-31 21:08:41,006 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\trackable_view.py', reloading
+2026-01-31 21:08:41,008 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\checkpoint\\util.py', reloading
+2026-01-31 21:08:41,011 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\client\\__init__.py', reloading
+2026-01-31 21:08:41,015 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\client\\client_lib.py', reloading
+2026-01-31 21:08:41,016 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\client\\device_lib.py', reloading
+2026-01-31 21:08:41,017 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\client\\pywrap_tf_session.py', reloading
+2026-01-31 21:08:41,018 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\client\\session.py', reloading
+2026-01-31 21:08:41,019 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\client\\timeline.py', reloading
+2026-01-31 21:08:41,022 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compat\\__init__.py', reloading
+2026-01-31 21:08:41,024 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compat\\compat.py', reloading
+2026-01-31 21:08:41,025 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compat\\v2_compat.py', reloading
+2026-01-31 21:08:41,028 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\__init__.py', reloading
+2026-01-31 21:08:41,031 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\mlir\\__init__.py', reloading
+2026-01-31 21:08:41,032 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\mlir\\mlir.py', reloading
+2026-01-31 21:08:41,034 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\tensorrt\\__init__.py', reloading
+2026-01-31 21:08:41,038 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\tensorrt\\test\\__init__.py', reloading
+2026-01-31 21:08:41,039 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\tensorrt\\test\\tf_trt_integration_test_base.py', reloading
+2026-01-31 21:08:41,041 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\tensorrt\\trt_convert.py', reloading
+2026-01-31 21:08:41,045 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\tensorrt\\utils.py', reloading
+2026-01-31 21:08:41,049 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\xla\\__init__.py', reloading
+2026-01-31 21:08:41,052 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\xla\\experimental\\__init__.py', reloading
+2026-01-31 21:08:41,053 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\xla\\experimental\\xla_sharding.py', reloading
+2026-01-31 21:08:41,055 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\xla\\jit.py', reloading
+2026-01-31 21:08:41,056 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\compiler\\xla\\xla.py', reloading
+2026-01-31 21:08:41,058 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\__init__.py', reloading
+2026-01-31 21:08:41,062 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\benchmarks\\__init__.py', reloading
+2026-01-31 21:08:41,063 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\benchmarks\\benchmark_base.py', reloading
+2026-01-31 21:08:41,065 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\__init__.py', reloading
+2026-01-31 21:08:41,069 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\kernel_tests\\__init__.py', reloading
+2026-01-31 21:08:41,071 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\kernel_tests\\service\\__init__.py', reloading
+2026-01-31 21:08:41,074 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\kernel_tests\\service\\multi_process_cluster.py', reloading
+2026-01-31 21:08:41,075 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\kernel_tests\\service\\test_base.py', reloading
+2026-01-31 21:08:41,079 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\__init__.py', reloading
+2026-01-31 21:08:41,082 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\batching.py', reloading
+2026-01-31 21:08:41,083 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\cardinality.py', reloading
+2026-01-31 21:08:41,084 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\compression_ops.py', reloading
+2026-01-31 21:08:41,085 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\counter.py', reloading
+2026-01-31 21:08:41,086 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\data_service_ops.py', reloading
+2026-01-31 21:08:41,087 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\distribute.py', reloading
+2026-01-31 21:08:41,088 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\distributed_save_op.py', reloading
+2026-01-31 21:08:41,089 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\enumerate_ops.py', reloading
+2026-01-31 21:08:41,091 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\error_ops.py', reloading
+2026-01-31 21:08:41,092 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\from_list.py', reloading
+2026-01-31 21:08:41,093 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\get_single_element.py', reloading
+2026-01-31 21:08:41,095 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\global_shuffle_op.py', reloading
+2026-01-31 21:08:41,096 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\grouping.py', reloading
+2026-01-31 21:08:41,097 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\interleave_ops.py', reloading
+2026-01-31 21:08:41,099 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\io.py', reloading
+2026-01-31 21:08:41,100 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\iterator_model_ops.py', reloading
+2026-01-31 21:08:41,101 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\iterator_ops.py', reloading
+2026-01-31 21:08:41,102 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\lookup_ops.py', reloading
+2026-01-31 21:08:41,103 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\map_defun.py', reloading
+2026-01-31 21:08:41,104 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\matching_files.py', reloading
+2026-01-31 21:08:41,105 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\pad_to_cardinality.py', reloading
+2026-01-31 21:08:41,106 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\parsing_ops.py', reloading
+2026-01-31 21:08:41,107 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\prefetching_ops.py', reloading
+2026-01-31 21:08:41,109 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\random_access.py', reloading
+2026-01-31 21:08:41,110 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\random_ops.py', reloading
+2026-01-31 21:08:41,111 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\readers.py', reloading
+2026-01-31 21:08:41,112 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\resampling.py', reloading
+2026-01-31 21:08:41,112 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\scan_ops.py', reloading
+2026-01-31 21:08:41,114 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\shuffle_ops.py', reloading
+2026-01-31 21:08:41,115 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\snapshot.py', reloading
+2026-01-31 21:08:41,116 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\take_while_ops.py', reloading
+2026-01-31 21:08:41,117 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\testing.py', reloading
+2026-01-31 21:08:41,118 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\unique.py', reloading
+2026-01-31 21:08:41,119 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\ops\\writers.py', reloading
+2026-01-31 21:08:41,120 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\service\\__init__.py', reloading
+2026-01-31 21:08:41,123 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\experimental\\service\\server_lib.py', reloading
+2026-01-31 21:08:41,126 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\kernel_tests\\__init__.py', reloading
+2026-01-31 21:08:41,128 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\kernel_tests\\checkpoint_test_base.py', reloading
+2026-01-31 21:08:41,130 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\kernel_tests\\test_base.py', reloading
+2026-01-31 21:08:41,131 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\kernel_tests\\tf_record_test_base.py', reloading
+2026-01-31 21:08:41,135 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\__init__.py', reloading
+2026-01-31 21:08:41,138 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\batch_op.py', reloading
+2026-01-31 21:08:41,140 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\cache_op.py', reloading
+2026-01-31 21:08:41,141 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\choose_from_datasets_op.py', reloading
+2026-01-31 21:08:41,142 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\concatenate_op.py', reloading
+2026-01-31 21:08:41,144 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\counter_op.py', reloading
+2026-01-31 21:08:41,145 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\dataset_autograph.py', reloading
+2026-01-31 21:08:41,146 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\dataset_ops.py', reloading
+2026-01-31 21:08:41,147 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\debug_mode.py', reloading
+2026-01-31 21:08:41,148 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\directed_interleave_op.py', reloading
+2026-01-31 21:08:41,149 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\filter_op.py', reloading
+2026-01-31 21:08:41,150 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\flat_map_op.py', reloading
+2026-01-31 21:08:41,152 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\from_generator_op.py', reloading
+2026-01-31 21:08:41,153 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\from_sparse_tensor_slices_op.py', reloading
+2026-01-31 21:08:41,154 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\from_tensor_slices_op.py', reloading
+2026-01-31 21:08:41,155 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\from_tensors_op.py', reloading
+2026-01-31 21:08:41,156 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\group_by_window_op.py', reloading
+2026-01-31 21:08:41,158 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\ignore_errors_op.py', reloading
+2026-01-31 21:08:41,160 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\interleave_op.py', reloading
+2026-01-31 21:08:41,161 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\iterator_autograph.py', reloading
+2026-01-31 21:08:41,162 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\iterator_ops.py', reloading
+2026-01-31 21:08:41,163 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\load_op.py', reloading
+2026-01-31 21:08:41,164 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\map_op.py', reloading
+2026-01-31 21:08:41,165 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\multi_device_iterator_ops.py', reloading
+2026-01-31 21:08:41,167 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\optional_ops.py', reloading
+2026-01-31 21:08:41,169 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\options.py', reloading
+2026-01-31 21:08:41,170 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\padded_batch_op.py', reloading
+2026-01-31 21:08:41,171 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\prefetch_op.py', reloading
+2026-01-31 21:08:41,171 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\ragged_batch_op.py', reloading
+2026-01-31 21:08:41,172 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\random_op.py', reloading
+2026-01-31 21:08:41,173 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\range_op.py', reloading
+2026-01-31 21:08:41,175 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\readers.py', reloading
+2026-01-31 21:08:41,176 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\rebatch_op.py', reloading
+2026-01-31 21:08:41,178 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\repeat_op.py', reloading
+2026-01-31 21:08:41,179 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\sample_from_datasets_op.py', reloading
+2026-01-31 21:08:41,180 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\save_op.py', reloading
+2026-01-31 21:08:41,182 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\scan_op.py', reloading
+2026-01-31 21:08:41,183 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\shard_op.py', reloading
+2026-01-31 21:08:41,184 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\shuffle_op.py', reloading
+2026-01-31 21:08:41,185 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\skip_op.py', reloading
+2026-01-31 21:08:41,186 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\snapshot_op.py', reloading
+2026-01-31 21:08:41,187 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\sparse_batch_op.py', reloading
+2026-01-31 21:08:41,188 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\structured_function.py', reloading
+2026-01-31 21:08:41,189 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\take_op.py', reloading
+2026-01-31 21:08:41,190 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\take_while_op.py', reloading
+2026-01-31 21:08:41,191 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\test_mode.py', reloading
+2026-01-31 21:08:41,193 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\unbatch_op.py', reloading
+2026-01-31 21:08:41,194 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\unique_op.py', reloading
+2026-01-31 21:08:41,195 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\window_op.py', reloading
+2026-01-31 21:08:41,196 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\ops\\zip_op.py', reloading
+2026-01-31 21:08:41,197 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\util\\__init__.py', reloading
+2026-01-31 21:08:41,200 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\util\\convert.py', reloading
+2026-01-31 21:08:41,201 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\util\\nest.py', reloading
+2026-01-31 21:08:41,202 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\util\\options.py', reloading
+2026-01-31 21:08:41,204 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\util\\random_seed.py', reloading
+2026-01-31 21:08:41,205 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\util\\sparse.py', reloading
+2026-01-31 21:08:41,206 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\util\\structure.py', reloading
+2026-01-31 21:08:41,210 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\data\\util\\traverse.py', reloading
+2026-01-31 21:08:41,213 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\__init__.py', reloading
+2026-01-31 21:08:41,216 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\__init__.py', reloading
+2026-01-31 21:08:41,219 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\analyzer_cli.py', reloading
+2026-01-31 21:08:41,221 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\base_ui.py', reloading
+2026-01-31 21:08:41,222 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\cli_config.py', reloading
+2026-01-31 21:08:41,223 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\cli_shared.py', reloading
+2026-01-31 21:08:41,224 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\cli_test_utils.py', reloading
+2026-01-31 21:08:41,225 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\command_parser.py', reloading
+2026-01-31 21:08:41,226 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\debugger_cli_common.py', reloading
+2026-01-31 21:08:41,227 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\evaluator.py', reloading
+2026-01-31 21:08:41,229 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\offline_analyzer.py', reloading
+2026-01-31 21:08:41,230 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\profile_analyzer_cli.py', reloading
+2026-01-31 21:08:41,233 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\readline_ui.py', reloading
+2026-01-31 21:08:41,234 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\tensor_format.py', reloading
+2026-01-31 21:08:41,236 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\cli\\ui_factory.py', reloading
+2026-01-31 21:08:41,240 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\__init__.py', reloading
+2026-01-31 21:08:41,246 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\check_numerics_callback.py', reloading
+2026-01-31 21:08:41,248 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\common.py', reloading
+2026-01-31 21:08:41,249 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\debug_data.py', reloading
+2026-01-31 21:08:41,251 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\debug_events_monitors.py', reloading
+2026-01-31 21:08:41,254 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\debug_events_reader.py', reloading
+2026-01-31 21:08:41,256 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\debug_events_writer.py', reloading
+2026-01-31 21:08:41,257 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\debug_gradients.py', reloading
+2026-01-31 21:08:41,263 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\debug_graphs.py', reloading
+2026-01-31 21:08:41,265 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\debug_service_pb2_grpc.py', reloading
+2026-01-31 21:08:41,266 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\debug_utils.py', reloading
+2026-01-31 21:08:41,269 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\dumping_callback.py', reloading
+2026-01-31 21:08:41,270 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\dumping_callback_test_lib.py', reloading
+2026-01-31 21:08:41,272 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\grpc_debug_server.py', reloading
+2026-01-31 21:08:41,275 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\grpc_debug_test_server.py', reloading
+2026-01-31 21:08:41,277 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\grpc_tensorflow_server.py', reloading
+2026-01-31 21:08:41,281 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\op_callbacks_common.py', reloading
+2026-01-31 21:08:41,282 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\profiling.py', reloading
+2026-01-31 21:08:41,283 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\session_debug_testlib.py', reloading
+2026-01-31 21:08:41,287 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\source_remote.py', reloading
+2026-01-31 21:08:41,289 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\lib\\source_utils.py', reloading
+2026-01-31 21:08:41,291 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\wrappers\\__init__.py', reloading
+2026-01-31 21:08:41,297 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\wrappers\\dumping_wrapper.py', reloading
+2026-01-31 21:08:41,298 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\wrappers\\framework.py', reloading
+2026-01-31 21:08:41,300 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\wrappers\\grpc_wrapper.py', reloading
+2026-01-31 21:08:41,303 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\wrappers\\hooks.py', reloading
+2026-01-31 21:08:41,305 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\debug\\wrappers\\local_cli_wrapper.py', reloading
+2026-01-31 21:08:41,318 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\__init__.py', reloading
+2026-01-31 21:08:41,324 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\central_storage_strategy.py', reloading
+2026-01-31 21:08:41,329 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cluster_resolver\\__init__.py', reloading
+2026-01-31 21:08:41,333 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cluster_resolver\\cluster_resolver.py', reloading
+2026-01-31 21:08:41,336 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cluster_resolver\\gce_cluster_resolver.py', reloading
+2026-01-31 21:08:41,337 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cluster_resolver\\kubernetes_cluster_resolver.py', reloading
+2026-01-31 21:08:41,341 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cluster_resolver\\sagemaker_cluster_resolver.py', reloading
+2026-01-31 21:08:41,342 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cluster_resolver\\slurm_cluster_resolver.py', reloading
+2026-01-31 21:08:41,346 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cluster_resolver\\tfconfig_cluster_resolver.py', reloading
+2026-01-31 21:08:41,348 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cluster_resolver\\tpu\\__init__.py', reloading
+2026-01-31 21:08:41,350 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cluster_resolver\\tpu\\tpu_cluster_resolver.py', reloading
+2026-01-31 21:08:41,352 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cluster_resolver\\tpu_cluster_resolver.py', reloading
+2026-01-31 21:08:41,353 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\collective_all_reduce_strategy.py', reloading
+2026-01-31 21:08:41,355 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\collective_util.py', reloading
+2026-01-31 21:08:41,356 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\combinations.py', reloading
+2026-01-31 21:08:41,360 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\coordinator\\__init__.py', reloading
+2026-01-31 21:08:41,364 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\coordinator\\cluster_coordinator.py', reloading
+2026-01-31 21:08:41,365 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\coordinator\\coordinator_context.py', reloading
+2026-01-31 21:08:41,367 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\coordinator\\fault_tolerance_test_base.py', reloading
+2026-01-31 21:08:41,369 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\coordinator\\metric_utils.py', reloading
+2026-01-31 21:08:41,370 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\coordinator\\remote_value.py', reloading
+2026-01-31 21:08:41,372 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\coordinator\\utils.py', reloading
+2026-01-31 21:08:41,374 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\coordinator\\values.py', reloading
+2026-01-31 21:08:41,376 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\coordinator\\watchdog.py', reloading
+2026-01-31 21:08:41,378 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cross_device_ops.py', reloading
+2026-01-31 21:08:41,381 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\cross_device_utils.py', reloading
+2026-01-31 21:08:41,382 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\device_util.py', reloading
+2026-01-31 21:08:41,385 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\distribute_config.py', reloading
+2026-01-31 21:08:41,386 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\distribute_coordinator.py', reloading
+2026-01-31 21:08:41,388 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\distribute_coordinator_context.py', reloading
+2026-01-31 21:08:41,389 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\distribute_lib.py', reloading
+2026-01-31 21:08:41,392 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\distribute_utils.py', reloading
+2026-01-31 21:08:41,396 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\experimental\\__init__.py', reloading
+2026-01-31 21:08:41,399 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\experimental\\dtensor_strategy_extended.py', reloading
+2026-01-31 21:08:41,400 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\experimental\\dtensor_util.py', reloading
+2026-01-31 21:08:41,402 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\experimental\\mirrored_strategy.py', reloading
+2026-01-31 21:08:41,404 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\experimental\\multi_worker_mirrored_strategy.py', reloading
+2026-01-31 21:08:41,407 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\experimental\\rpc\\__init__.py', reloading
+2026-01-31 21:08:41,410 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\experimental\\rpc\\rpc_ops.py', reloading
+2026-01-31 21:08:41,413 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\failure_handling\\__init__.py', reloading
+2026-01-31 21:08:41,416 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\failure_handling\\failure_handling.py', reloading
+2026-01-31 21:08:41,417 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\failure_handling\\failure_handling_util.py', reloading
+2026-01-31 21:08:41,418 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\failure_handling\\preemption_watcher.py', reloading
+2026-01-31 21:08:41,420 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\input_lib.py', reloading
+2026-01-31 21:08:41,422 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\input_ops.py', reloading
+2026-01-31 21:08:41,423 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\input_util.py', reloading
+2026-01-31 21:08:41,425 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\load_context.py', reloading
+2026-01-31 21:08:41,426 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\merge_call_interim.py', reloading
+2026-01-31 21:08:41,427 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\mirrored_run.py', reloading
+2026-01-31 21:08:41,429 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\mirrored_strategy.py', reloading
+2026-01-31 21:08:41,431 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\multi_process_lib.py', reloading
+2026-01-31 21:08:41,432 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\multi_process_runner.py', reloading
+2026-01-31 21:08:41,434 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\multi_worker_test_base.py', reloading
+2026-01-31 21:08:41,436 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\multi_worker_util.py', reloading
+2026-01-31 21:08:41,437 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\numpy_dataset.py', reloading
+2026-01-31 21:08:41,438 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\one_device_strategy.py', reloading
+2026-01-31 21:08:41,439 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\packed_distributed_variable.py', reloading
+2026-01-31 21:08:41,443 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\parallel_device\\__init__.py', reloading
+2026-01-31 21:08:41,446 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\parallel_device\\parallel_device.py', reloading
+2026-01-31 21:08:41,447 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\parameter_server_strategy.py', reloading
+2026-01-31 21:08:41,449 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\parameter_server_strategy_v2.py', reloading
+2026-01-31 21:08:41,451 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\ps_values.py', reloading
+2026-01-31 21:08:41,452 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\reduce_util.py', reloading
+2026-01-31 21:08:41,454 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\sharded_variable.py', reloading
+2026-01-31 21:08:41,456 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\shared_variable_creator.py', reloading
+2026-01-31 21:08:41,457 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\single_loss_example.py', reloading
+2026-01-31 21:08:41,459 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\step_fn.py', reloading
+2026-01-31 21:08:41,461 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\strategy_combinations.py', reloading
+2026-01-31 21:08:41,462 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\strategy_test_lib.py', reloading
+2026-01-31 21:08:41,464 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\summary_op_util.py', reloading
+2026-01-31 21:08:41,465 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\test_util.py', reloading
+2026-01-31 21:08:41,467 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\tpu_replicated_variable.py', reloading
+2026-01-31 21:08:41,468 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\tpu_strategy.py', reloading
+2026-01-31 21:08:41,469 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\tpu_util.py', reloading
+2026-01-31 21:08:41,471 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\tpu_values.py', reloading
+2026-01-31 21:08:41,474 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\v1\\__init__.py', reloading
+2026-01-31 21:08:41,478 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\v1\\all_reduce.py', reloading
+2026-01-31 21:08:41,479 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\v1\\input_lib.py', reloading
+2026-01-31 21:08:41,480 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\values.py', reloading
+2026-01-31 21:08:41,482 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\values_util.py', reloading
+2026-01-31 21:08:41,483 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\distribute\\values_v2.py', reloading
+2026-01-31 21:08:41,487 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\dlpack\\__init__.py', reloading
+2026-01-31 21:08:41,489 - INFO -  * Detected change in 'c:\\Users\\PADMA\\OneDrive\\Desktop\\AI Facial Skin Aging Detection App\\venv\\Lib\\site-packages\\tensorflow\\python\\dlpack\\dlpack.py', reloading
+2026-01-31 21:08:48,037 - INFO -  * Restarting with watchdog (windowsapi)
+2026-01-31 21:09:05,878 - WARNING -  * Debugger is active!
+2026-01-31 21:09:05,895 - INFO -  * Debugger PIN: 663-202-794
